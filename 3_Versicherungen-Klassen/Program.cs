@@ -1,3 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿namespace _3_Versicherungen_Klassen;
 
-Console.WriteLine("Hello, World!");
+class Progam
+{
+    static void Main()
+    {
+        Console.WriteLine("Program was run.");
+    }
+}
